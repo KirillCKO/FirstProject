@@ -1,0 +1,6 @@
+Для корректной работы использовать последнюю версию ТГ бота и python версии 3.9.13
+
+Варианты установки телебота:
+
+pip install python-telegram-bot
+python -m pip install pyTelegramBotAPI
