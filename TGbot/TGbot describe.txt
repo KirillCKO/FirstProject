@@ -4,3 +4,11 @@
 
 pip install python-telegram-bot
 python -m pip install pyTelegramBotAPI
+
+
+
+Дополнительные библиотеки для работы функций:
+
+--- `imagehash` для работы с хэш-данными файлов -> !pip install imagehash
+
+--- `mtcnn` для детекциилиц на фото -> !pip install mtcnn
